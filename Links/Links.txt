@@ -18,3 +18,5 @@ Admin:https://www.figma.com/file/yyvAQ7UwYdx0Uy6VrzDDr4/Prapti's-File?type=desig
 Faculty:https://www.figma.com/file/XSGeOdnlAsH3z5Pw5hqMcm/Tushar's-Faculty-File?type=design&node-id=0%3A1&mode=design&t=ZCKQYCjzaOn1SiqA-1
 Student:https://www.figma.com/file/37i8VuPcJzSvF3f3sghoEB/Easin's-Student-File?type=design&node-id=0%3A1&mode=design&t=W1aJlK3DexbhN1zP-1
 Report: https://drive.google.com/file/d/11YQdhORfl-dxnKTL50pynhICO8MAC4gS/view?usp=drivesdk
+
+SAD Diagrams: https://docs.google.com/document/d/1lgql_ZEftrzCF0XEP1WF28deV3oG9icEU9vbt3W3LaY/edit?usp=sharing
